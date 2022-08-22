@@ -10,3 +10,6 @@ print(type(name)) -- string
 color = false
 print(type(color)) -- boolean
 
+print(type(print)) -- function
+
+    
